@@ -19,7 +19,7 @@ public class baseclass {
 		//Driver d=new Driver();
 		//DriverManager.registerDriver(d);
 		//DriverManager.getConnection("url", "user", "password");
-		System.out.println("connect to database");
+		System.out.println("connect to database and check for the update");
 	}
 @BeforeClass
 public void launchbrowser() throws IOException {
